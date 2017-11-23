@@ -6,7 +6,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ### How to Set Up LIRI
 
-Download the zip file from the repository and unzip. The list of dependecies you will need can be found in package.json. To download them all at once, run in your GitBash:
+Download the zip file from the repository and unzip. The list of dependecies you will need can be found in package.json. To download them all at once, run the command:
 
 `npm install`
 
